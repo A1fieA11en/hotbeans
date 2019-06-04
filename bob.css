@@ -1,0 +1,79 @@
+body {
+background-color:#501537;
+}
+@font-face {
+font-family: 'Lulo Clean Outline Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Lulo Clean Outline Bold'), url('Yellow Design Studio - Lulo Clean Outline Bold.woff') format('woff');
+}
+
+
+*{
+	margin-top: 0;
+	padding 0;
+}
+
+
+u1 {
+	
+}
+
+u1 li{
+	list-style: none;
+	display: inline-block;
+	float: left;
+	line-height: 50px;
+	margin-left: 200px;
+}
+
+u1 li a{
+	text-decoration: none;
+	font-size: 30px;
+	font-family: 'Quicksand', sans-serif;
+	color:#B8C480;
+	font-weight: bold;
+	font-style: italic;
+	padding: 1px;
+	display: block;
+}
+u1 li a:hover {
+	color: #D4E79E;
+}
+
+h1 {
+font-size: 80px;
+font-weight: bold;
+color:#D4E79E;
+font-family: Lulo Clean Outline Bold;
+}
+
+h2 {
+font-size: 30px;
+font-weight: bold;
+color:#B8C480;
+font-family: Lulo Clean Outline Bold;
+}
+
+h3 {
+font-size: 60px;
+font-weight: bold;
+color:#B8C480;
+font-family: 'Quicksand', sans-serif;
+}
+
+p {
+font-size: 20px;
+font-weight: normal;
+color:#B8C480;
+font-family: 'Quicksand', sans-serif;
+}
+
+hr {
+  border: 0;
+  width: 100%;
+color: #f00;
+background-color: #B8C480;
+height: 3px;
+
+}
